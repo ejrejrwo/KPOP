@@ -8,7 +8,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="Hello! World"
-        android:background="#008800"
+        android:background="#990099"
         android:gravity="center"
         android:textSize="15sp"
         android:textColor="@android:color/black"/>
